@@ -1,0 +1,3 @@
+limited max thickness ln(evidence):
+41.92321263070505
+not limited max thickness ln(evidence):
